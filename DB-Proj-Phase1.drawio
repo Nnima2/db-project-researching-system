@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="D2LSi5qULEDJ_Cnv_LMs">
+    <mxGraphModel dx="1956" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tzHITpAgBeZ4FbMywy95-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="پزوهشگر" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="پروژه پژوهشی" vertex="1">
+          <mxGeometry height="60" width="120" x="-320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="تیم" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="نمونه پژوهشی" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="نمونه نرم افزاری" vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="نمونه فیزیکی" vertex="1">
+          <mxGeometry height="60" width="120" x="-450" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-18" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="نسخه نمونه" vertex="1">
+          <mxGeometry height="40" width="100" x="-450" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-24" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="مجموعه داده" vertex="1">
+          <mxGeometry height="40" width="87" x="-10" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-25" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="نسخه داده" vertex="1">
+          <mxGeometry height="40" width="100" x="-180" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-26" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="روش آزمون" vertex="1">
+          <mxGeometry height="40" width="100" x="140" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-27" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="معیار اندازه گیری" vertex="1">
+          <mxGeometry height="40" width="100" x="-40" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-28" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="تجهیز" vertex="1">
+          <mxGeometry height="40" width="100" x="-50" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-29" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="اجرای آزمون" vertex="1">
+          <mxGeometry height="40" width="100" x="-230" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-30" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="گزارش مشکل" vertex="1">
+          <mxGeometry height="40" width="100" x="160" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="tzHITpAgBeZ4FbMywy95-31" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="بازبینی" vertex="1">
+          <mxGeometry height="40" width="100" x="-40" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
